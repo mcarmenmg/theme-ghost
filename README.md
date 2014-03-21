@@ -1,4 +1,5 @@
-theme-ghost
+Theme-ghost
 ===========
+Theme - Ghost
 
-theme - Ghost
+Ghost Blog Details
