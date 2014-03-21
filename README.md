@@ -11,3 +11,5 @@ Ghost Blog Details
 {{@blog.cover}} The blog's cover image (img src)
 
 ===========
+
+Hola Mundo
