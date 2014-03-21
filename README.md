@@ -9,3 +9,5 @@ Ghost Blog Details
 {{@blog.description}} The blog's description
 {{@blog.logo}} The blog's logo (img src)
 {{@blog.cover}} The blog's cover image (img src)
+
+===========
